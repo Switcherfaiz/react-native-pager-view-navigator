@@ -1,6 +1,6 @@
 {
   "name": "react-native-pager-view-navigator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "**react-native-pager-view-navigator** provides custom React hooks to manage navigation in [react-native-pager-view](https://github.com/callstack/react-native-pager-view). The package offers two hooks for pager initialization and navigation management.",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,6 @@
   "peerDependencies": {
     "react": "^17.0.0 || ^18.0.0",
     "react-native": ">=0.64.0",
-    "react-native-pager-view": "^6.0.0",
-    "react-navigation-backhandler": "^3.0.0"
+    "react-navigation-backhandler": "^2.0.2"
   }
 }
