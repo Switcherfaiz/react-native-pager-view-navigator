@@ -7,9 +7,9 @@
 ## Installation
 
 Install the package along with its peer dependencies:
-
+```bash
 npm install react-native-pager-view-navigator react-native-pager-view react-navigation-backhandler
-
+```
 ---
 
 ## Usage
@@ -18,6 +18,7 @@ Here's an example of how to use the hooks to navigate between pages and handle n
 
 ### Example Code
 
+```jsx
 import React, { useRef } from 'react';
 import { View, Text, Button, StyleSheet } from 'react-native';
 import PagerView from 'react-native-pager-view';
@@ -85,7 +86,7 @@ const styles = StyleSheet.create({
 });
 
 export default App;
-
+```
 ---
 
 ### Explanation
