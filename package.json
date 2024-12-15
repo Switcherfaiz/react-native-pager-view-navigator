@@ -8,6 +8,7 @@
   },
   "keywords": ["react-native", "pager-view", "navigation", "hooks","react-native-pager-view-navigator"],
   "author": "Switcherfaiz",
+  "repository":"https://github.com/Switcherfaiz/react-native-pager-view-navigator.git",
   "license": "ISC",
   "peerDependencies": {
     "react": "^17.0.0 || ^18.0.0",
